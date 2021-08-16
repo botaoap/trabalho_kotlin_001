@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.29257246376811596" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.29257246376811596" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.29257246376811596" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.28125" />
+        <entry key="app/src/main/res/layout/fragment_list_of_articles.xml" value="0.29257246376811596" />
+        <entry key="app/src/main/res/layout/fragment_list_of_whatever.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_random_user_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_card_article.xml" value="0.29257246376811596" />
+        <entry key="app/src/main/res/layout/item_detail_article.xml" value="0.29257246376811596" />
+        <entry key="app/src/main/res/layout/item_detail_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_list.xml" value="0.2953125" />
         <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3098958333333333" />
       </map>
     </option>

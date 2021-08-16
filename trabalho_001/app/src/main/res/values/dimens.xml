@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">20dp</dimen>
+    <dimen name="card_elevation_default">20dp</dimen>
+    <dimen name="car_radius_default">15dp</dimen>
+    <dimen name="card_padding_default">20dp</dimen>
+</resources>

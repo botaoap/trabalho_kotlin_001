@@ -7,7 +7,7 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardViewImageUser"
-        android:layout_width="200dp"
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_margin="@dimen/margin_default"
         app:cardCornerRadius="@dimen/car_radius_default"
@@ -20,10 +20,11 @@
             android:layout_height="match_parent">
             <ImageView
                 android:id="@+id/imageViewArticle"
-                android:layout_width="200dp"
+                android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_marginTop="@dimen/margin_default"
                 android:src="@drawable/ic_person"
+                android:scaleType="centerCrop"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 tools:ignore="MissingConstraints" />

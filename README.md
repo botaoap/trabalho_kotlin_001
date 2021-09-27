@@ -19,4 +19,5 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Descriptions: [here](descricao.md)
 
 ## Download Apk
-- Download: [here](app-debug.aab)
+- Download AAB: [here](output/app-debug.aab)
+- Download APK: [here](output/app-debug.apk)

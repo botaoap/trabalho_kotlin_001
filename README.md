@@ -17,3 +17,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## What I use?
 - Descriptions: [here](descricao.md)
+
+## Download Apk
+- Download: [here](app-debug.aab)
